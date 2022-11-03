@@ -1,0 +1,21 @@
+
+nav{
+    margin-bottom: 5rem !important;
+}
+
+nav ul a{
+
+    color: black !important;
+    font-weight: 500;
+    font-size: large;
+    margin-left: 5em !important;
+}
+
+
+footer{
+    background-color: rgb(204, 197, 197);
+}
+
+footer ul{
+    text-decoration: none;
+}
